@@ -14,13 +14,7 @@ Component-based architecture for easy maintenance
 Inspired by the original Ochi Design aesthetic
 
 🛠 Tech Stack
-React – Component-based UI library
-
-Framer Motion – Animation library for React
-
-Locomotive Scroll – Smooth scroll effects
-
-JavaScript (ES6+)
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <img src="https://raw.githubusercontent.com/framer/motion/main/.github/assets/framer-motion-icon.png" alt="Framer Motion" width="40" height="40"/> <img src="https://locomotivemtl.github.io/locomotive-scroll/img/logo.svg" alt="Locomotive Scroll" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </p>
 
 🎥 Demo Video
 
@@ -49,20 +43,10 @@ npm install
 Run the development server
 npm run dev
 
-📂 Folder Structure
-
-ochi-design-react/
-│── public/
-│── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   ├── App.js
-│   ├── index.js
-│── package.json
 
 
 💡 Inspiration & Credits
+
 Ochi Design – Original design inspiration
 
 Framer Motion – For animations
