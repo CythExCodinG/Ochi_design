@@ -13,8 +13,14 @@ Component-based architecture for easy maintenance
 
 Inspired by the original Ochi Design aesthetic
 
-🛠 Tech Stack
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> <img src="https://raw.githubusercontent.com/framer/motion/main/.github/assets/framer-motion-icon.png" alt="Framer Motion" width="40" height="40"/> <img src="https://locomotivemtl.github.io/locomotive-scroll/img/logo.svg" alt="Locomotive Scroll" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </p>
+## 🛠 Tech Stack  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="Framer Motion" width="40" height="40"/>
+  <img src="https://github.com/locomotivemtl/locomotive-scroll/blob/master/docs/src/assets/logo.svg" alt="Locomotive Scroll" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
+
 
 🎥 Demo Video
 
