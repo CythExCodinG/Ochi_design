@@ -16,8 +16,7 @@ Inspired by the original Ochi Design aesthetic
 ## 🛠 Tech Stack  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" alt="Framer Motion" width="40" height="40"/>
-  <img src="https://github.com/locomotivemtl/locomotive-scroll/blob/master/docs/src/assets/logo.svg" alt="Locomotive Scroll" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/7850794/164965509-2a8dc49e-2ed7-4243-a2c9-481b03bbc31a.png" alt="Framer Motion" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
