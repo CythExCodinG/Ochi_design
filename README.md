@@ -41,11 +41,6 @@ https://github.com/user-attachments/assets/7abf802c-d96c-4029-97d4-f0d3552f5770
 
 <img width="1919" height="965" alt="Screenshot from 2025-08-13 23-47-18" src="https://github.com/user-attachments/assets/891253d8-159d-4ee4-9e2b-5941e94ab765" />
 
-<br>
-<br>
-
-<img width="1919" height="965" alt="Screenshot from 2025-08-13 23-47-25" src="https://github.com/user-attachments/assets/ca9a44ef-adf9-4492-8d82-b4b7b82b5f98" />
-
 
 🚀 Installation & Setup
 
