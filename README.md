@@ -1,12 +1,67 @@
-# React + Vite
+Ochi Design – React Clone
+A modern, visually striking website inspired by Ochi Design’s sleek and dynamic style.
+Built with React, enhanced with Framer Motion for smooth animations, and Locomotive Scroll for immersive scroll effects.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
+Smooth, GPU-accelerated scroll animations
 
-Currently, two official plugins are available:
+Eye-catching motion transitions using Framer Motion
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Responsive, minimal, and clean UI design
 
-## Expanding the ESLint configuration
+Component-based architecture for easy maintenance
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Inspired by the original Ochi Design aesthetic
+
+🛠 Tech Stack
+React – Component-based UI library
+
+Framer Motion – Animation library for React
+
+Locomotive Scroll – Smooth scroll effects
+
+JavaScript (ES6+)
+
+🎥 Demo Video
+
+https://github.com/user-attachments/assets/7abf802c-d96c-4029-97d4-f0d3552f5770
+
+
+📸 Screenshots
+
+<img width="1919" height="965" alt="Screenshot from 2025-08-13 23-47-18" src="https://github.com/user-attachments/assets/891253d8-159d-4ee4-9e2b-5941e94ab765" />
+
+<img width="1919" height="965" alt="Screenshot from 2025-08-13 23-47-25" src="https://github.com/user-attachments/assets/ca9a44ef-adf9-4492-8d82-b4b7b82b5f98" />
+
+
+🚀 Installation & Setup
+
+Clone the repository
+git clone https://github.com/your-username/ochi-design-react.git
+cd ochi-design-react
+
+Install dependencies
+npm install
+
+Run the development server
+npm run dev
+
+📂 Folder Structure
+
+ochi-design-react/
+│── public/
+│── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── App.js
+│   ├── index.js
+│── package.json
+
+
+💡 Inspiration & Credits
+Ochi Design – Original design inspiration
+
+Framer Motion – For animations
+
+Locomotive Scroll – For smooth scrolling
